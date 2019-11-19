@@ -39,7 +39,7 @@ Microservices are a way to create applications, where applications are broken do
  
 ### Disadvantages
 - Implementing this architecture is going to introduce some complexity as its a  [distributed system](http://www.antonkharenko.com/2015/06/notes-on-distributed-vs-non-distributed.html). Its essential to implement an inter process communication mechanism. 
-- [Testing of microservices](http://www.antonkharenko.com/2015/06/notes-on-distributed-vs-non-distributed.html) can become extremely tricky. To test one service one might need to start all the other dependent services as well. 
+- [Testing of microservices](http://martinfowler.com/articles/microservice-testing/) can become extremely tricky. To test one service one might need to start all the other dependent services as well. 
 - Its more difficult to introduce changes because it may span into multiple services. 
 - Deployment in monolith applications is more straightforward as compared to microservices architecture.
 
