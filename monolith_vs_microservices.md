@@ -46,8 +46,7 @@ Microservices are a way to create applications, where applications are broken do
 ___
 
 ### Conclusion
-Building complex applications is inherently difficult. A Monolithic architecture better suits simple, lightweight applications. There are opinions which suggest to start from the monolith first and others which recommend not to start with monolith when your goal is a microservices architecture. But anyway it is important to understand Monolithic architecture since it is the basis for microservices architecture where each service by itself is implemented according to monolithic architecture. The Microservices architecture pattern is the better choice for complex, evolving applications. Actually the microservices approach is all about handling a complex system, but in order to do so the approach introduces its own set of complexities and implementation challenges.
-
+It's difficult to build complex applications. Monolith architechture better suits simple, lightweight applications . There are opinions that suggest beginning with the monolith first and others that suggest not starting with monolith when your target is an architecture of microservices. Nevertheless, understanding monolithic architecture is important because it is the foundation for microservices
 
 
 
