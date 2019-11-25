@@ -17,10 +17,15 @@ See the docs folder for more detailed instructions and additional documentation.
  
 ### Installation
 ---
+#### Setup
+
 Restore packages and build the project using Visual Studio or dotnet CLI.
  - `dotnet restore ./FPDeactivationProcessor.csproj`
  - `dotnet build ./FPDeactivationProcessor.csproj`
- ### Dependencies
+#### Run 
+ - `dotnet run ./FPDeactivationProcessor.csproj`
+
+### Dependencies
 --- 
 
 
@@ -45,3 +50,16 @@ Restore packages and build the project using Visual Studio or dotnet CLI.
  - Windows/ Linux / MacOS
  - .NET Core 2.0 (target framework)
  
+
+## Code Standards
+
+[Follow this](https://github.com/Kristories/awesome-guidelines)
+[And this](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md) 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For detailed PR format refer to [this](docs/PR.md)
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
