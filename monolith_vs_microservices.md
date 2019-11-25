@@ -17,10 +17,15 @@ See the docs folder for more detailed instructions and additional documentation.
  
 ### Installation
 ---
+#### Setup
+
 Restore packages and build the project using Visual Studio or dotnet CLI.
  - `dotnet restore ./FPDeactivationProcessor.csproj`
  - `dotnet build ./FPDeactivationProcessor.csproj`
- ### Dependencies
+#### Run 
+ - `dotnet run ./FPDeactivationProcessor.csproj`
+
+### Dependencies
 --- 
 
 
