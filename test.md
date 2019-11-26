@@ -404,7 +404,7 @@ public enum Direction
 * * * * *
 
 
- do notsuffix enum names with Enum
+ do not suffix enum names with Enum
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Don't
