@@ -14,7 +14,7 @@ practices.\
 * * * * *
 
 \
- douse **PascalCasing** for class names and method names.
+ *do* use **PascalCasing** for class names and method names.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 public class ClientActivity
@@ -37,7 +37,7 @@ read.\
 * * * * *
 
 
- douse **camelCasing** for method arguments and local variables.
+ *do* use **camelCasing** for method arguments and local variables.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 public class UserLog
@@ -121,7 +121,7 @@ inconsistent abbreviations.\
 * * * * *
 
 
- douse **PascalCasing** for abbreviations 3 characters or more (2 chars
+ *do* use **PascalCasing** for abbreviations 3 characters or more (2 chars
 are both uppercase)
 
 ``` {.prettyprint .linenums .run .code-hscroll}
@@ -162,7 +162,7 @@ more natural to read (without 'slur'). Also avoids underline stress
 * * * * *
 
 
- douse **predefined type names** instead of system type names like
+ *do* use **predefined type names** instead of system type names like
 Int16, Single, UInt64, etc\
           
 
@@ -185,7 +185,7 @@ more natural to read. \
 * * * * *
 
 
- douse implicit type **var** for local variable declarations. Exception:
+ *do* use implicit type **var** for local variable declarations. Exception:
 primitive types (int, string, \
            double, etc) use predefined names.
 
@@ -206,7 +206,7 @@ is easily detected with Visual Studio tooltips.\
 * * * * *
 
 
- douse noun or noun phrases to name a class.
+ *do* use noun or noun phrases to name a class.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 public class Employee
@@ -341,7 +341,7 @@ variable declarations.\
 * * * * *
 
 
- douse singular names for enums. Exception: bit field enums.
+ *do* use singular names for enums. Exception: bit field enums.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Correct
