@@ -292,7 +292,7 @@ organization of your code base.\
 * * * * *
 
 
- **do** verticallyalign curly brackets.
+ **do** vertically align curly brackets.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Correct
