@@ -375,7 +375,7 @@ values (using bitwise 'OR').\
 * * * * *
 
 
- do notexplicitly specify a type of an enum or values of enums (except
+ do not explicitly specify a type of an enum or values of enums (except
 bit fields)
 
 ``` {.prettyprint .linenums .run .code-hscroll}
