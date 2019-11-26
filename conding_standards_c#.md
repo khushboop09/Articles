@@ -357,7 +357,7 @@ variable declarations.\
 * * * * *
 
 
- **do** use singular names for enums. Exception: bit field enums.
+ **do** use singular **PascalCase** names for enums. Exception: bit field enums.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Correct
