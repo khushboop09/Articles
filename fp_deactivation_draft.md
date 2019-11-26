@@ -47,6 +47,5 @@ Restore packages and build the project using Visual Studio or dotnet CLI.
 ---
  - Windows/ Linux / MacOS
  - .NET Core 2.0 (target framework)
- 
 
 
