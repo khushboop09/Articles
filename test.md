@@ -292,7 +292,7 @@ organization of your code base.\
 * * * * *
 
 
- dovertically align curly brackets.
+ **do** verticallyalign curly brackets.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Correct
@@ -311,7 +311,7 @@ overwhelmingly preferred vertically aligned brackets.\
 * * * * *
 
 
- dodeclare all member variables at the top of a class, with static
+ **do** declare all member variables at the top of a class, with static
 variables at the very top.
 
 ``` {.prettyprint .linenums .run .code-hscroll}
