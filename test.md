@@ -57,7 +57,7 @@ read.\
 * * * * *
 
 
- do notuse **Hungarian** notation or any other type identification in
+ **do not** use **Hungarian** notation or any other type identification in
 identifiers
 
 ``` {.prettyprint .linenums .run .code-hscroll}
@@ -78,7 +78,7 @@ you want to avoid type indicators in any identifier.\
 * * * * *
 
 
- do notuse **Screaming Caps** for constants or readonly variables
+ **do not** use **Screaming Caps** for constants or readonly variables
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Correct
@@ -137,7 +137,7 @@ visually too much attention.\
 * * * * *
 
 
- do notuse **Underscores** in identifiers. Exception: you can prefix
+ **do not** use **Underscores** in identifiers. Exception: you can prefix
 private static variables \
                      with an underscore.
 
