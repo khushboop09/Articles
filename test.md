@@ -248,7 +248,7 @@ public interface IGroupable
 * * * * *
 
 
- doname source files according to their main classes. Exception: file
+ **do** name source files according to their main classes. Exception: file
 names with partial classes\
            reflect their source or purpose, e.g. designer, generated,
 etc.
