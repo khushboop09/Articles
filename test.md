@@ -227,7 +227,7 @@ remember.\
 * * * * *
 
 
- doprefix interfaces with the letter I.  Interface names are noun
+ **do** prefix interfaces with the letter I.  Interface names are noun
 (phrases) or adjectives.\
 
 ``` {.prettyprint .linenums .run .code-hscroll}
