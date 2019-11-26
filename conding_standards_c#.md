@@ -94,6 +94,22 @@ much attention.\
 
 * * * * *
 
+ **do** use **_camelCase** for private constants or readonly variables
+
+``` {.prettyprint .linenums .run .code-hscroll}
+// Correct
+private static const string _shippingType = "DropShip";
+ 
+// Avoid
+private static const string ShippingType = "DropShip";
+```
+
+**Why**: consistent with the Microsoft's .NET Framework. Caps grap too
+much attention.\
+ 
+
+* * * * *
+
 
  **avoid** using **Abbreviations**. Exceptions: abbreviations commonly used
 as names, such as **Id, Xml, Ftp, Uri**
