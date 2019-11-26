@@ -276,7 +276,7 @@ alphabetically sorted and partial classes remain adjacent.\
 * * * * *
 
 
- doorganize namespaces with a clearly defined structure
+ **do** organize namespaces with a clearly defined structure
 
 ``` {.prettyprint .linenums .run .code-hscroll}
 // Examples
