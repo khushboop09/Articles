@@ -95,7 +95,7 @@ much attention.\
 * * * * *
 
 
- avoidusing **Abbreviations**. Exceptions: abbreviations commonly used
+ **avoid** using **Abbreviations**. Exceptions: abbreviations commonly used
 as names, such as **Id, Xml, Ftp, Uri**
 
 ``` {.prettyprint .linenums .run .code-hscroll}
