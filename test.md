@@ -434,5 +434,4 @@ with prior rule of no type indicators in identifiers.\
 
 * * * * *
 
-\
 
