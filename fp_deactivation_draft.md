@@ -1,13 +1,10 @@
 # Fp Deactivation Processor
 ---
-It's a service which runs daily to deactivate/activate fp's paid base packages. 
-
+It's a service which runs daily to deactivate/activate fp's paid base packages.
 
 ### Documentation
 ---
-
 See the docs folder for more detailed instructions and additional documentation.
-
 ### Features
 ---
  - Demo package expiry
@@ -15,15 +12,13 @@ See the docs folder for more detailed instructions and additional documentation.
  - Sends warnings to grace period expiry (within 1, 7, 30, 60 days)
  - Activation of packages. 
  - Expires the call tracker of the fp
- 
 ### Installation
 ---
 
- #### Requirements
+#### Requirements
 
  - Windows/ Linux / MacOS
  - .NET Core 2.0 (target framework)
-
 
 #### Setup
 
