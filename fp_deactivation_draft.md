@@ -2,6 +2,7 @@
 ---
 It's a service which runs daily to deactivate/activate fp's paid base packages. 
 
+
 ### Documentation
 ---
 
@@ -17,6 +18,13 @@ See the docs folder for more detailed instructions and additional documentation.
  
 ### Installation
 ---
+
+ #### Requirements
+---
+ - Windows/ Linux / MacOS
+ - .NET Core 2.0 (target framework)
+
+
 #### Setup
 
 Restore packages and build the project using Visual Studio or dotnet CLI.
@@ -43,9 +51,6 @@ Restore packages and build the project using Visual Studio or dotnet CLI.
 |WithFloats|https://nuget.withfloats.com/api/v2
 |Nuget| https://api.nuget.org/v3/index.json
 
- ### Requirements
----
- - Windows/ Linux / MacOS
- - .NET Core 2.0 (target framework)
+
 
 
