@@ -20,7 +20,7 @@ See the docs folder for more detailed instructions and additional documentation.
 ---
 
  #### Requirements
----
+
  - Windows/ Linux / MacOS
  - .NET Core 2.0 (target framework)
 
